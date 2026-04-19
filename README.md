@@ -65,6 +65,6 @@ Consistent with Amazon's "Day 1" philosophy, REPS-Pro is built for continuous ev
 * **Role:** AI Engineering Intern @ Ministry of Digital Economy and Entrepreneurship (MODEE)
 * **Focus:** Advanced AI Architectures | Data Science | System Design
 * **Contact:** https://www.linkedin.com/in/hamza-medhat-alawneh-ab622a247/
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 ---
 > *“In God we trust, all others must bring data.” – This project is a testament to data-driven decision-making in the public sector.*
