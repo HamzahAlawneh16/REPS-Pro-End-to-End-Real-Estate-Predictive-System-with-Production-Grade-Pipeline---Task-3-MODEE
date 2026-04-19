@@ -1,4 +1,6 @@
 # REPS-Pro: Enterprise-Grade Real Estate Predictive System
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 **Strategic AI Engineering Project | Developed @ MODEE**
 
 ##  Executive Overview
@@ -65,6 +67,5 @@ Consistent with Amazon's "Day 1" philosophy, REPS-Pro is built for continuous ev
 * **Role:** AI Engineering Intern @ Ministry of Digital Economy and Entrepreneurship (MODEE)
 * **Focus:** Advanced AI Architectures | Data Science | System Design
 * **Contact:** https://www.linkedin.com/in/hamza-medhat-alawneh-ab622a247/
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 ---
 > *“In God we trust, all others must bring data.” – This project is a testament to data-driven decision-making in the public sector.*
