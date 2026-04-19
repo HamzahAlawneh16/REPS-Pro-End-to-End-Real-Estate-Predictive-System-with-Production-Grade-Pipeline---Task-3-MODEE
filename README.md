@@ -1,7 +1,7 @@
 # REPS-Pro: Enterprise-Grade Real Estate Predictive System
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://Hamzaalawneh.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 
 
