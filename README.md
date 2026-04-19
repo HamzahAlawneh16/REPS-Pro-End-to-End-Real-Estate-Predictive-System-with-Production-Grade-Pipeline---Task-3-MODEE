@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 **Strategic AI Engineering Project | Developed @ MODEE**
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&border_color=ff0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ##  Executive Overview
 REPS-Pro (Real Estate Predictive System) is a production-ready machine learning framework designed to solve the problem of market valuation volatility. Unlike standard regression models, REPS-Pro incorporates a **Data Integrity Pipeline** to eliminate artificial biases, ensuring that predictions reflect true economic drivers rather than dataset artifacts.
 
