@@ -79,4 +79,4 @@ Consistent with Amazon's "Day 1" philosophy, REPS-Pro is built for continuous ev
 
 
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
