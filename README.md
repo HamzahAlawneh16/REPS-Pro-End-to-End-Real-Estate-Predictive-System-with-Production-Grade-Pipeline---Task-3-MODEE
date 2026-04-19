@@ -1,8 +1,6 @@
 # REPS-Pro: Enterprise-Grade Real Estate Predictive System
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
-![header](https://Hamzaalawneh.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
 
 
 
@@ -78,3 +76,7 @@ Consistent with Amazon's "Day 1" philosophy, REPS-Pro is built for continuous ev
 * **Contact:** https://www.linkedin.com/in/hamza-medhat-alawneh-ab622a247/
 ---
 > *“In God we trust, all others must bring data.” – This project is a testament to data-driven decision-making in the public sector.*
+
+
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3
