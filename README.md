@@ -1,7 +1,7 @@
 # REPS-Pro: Enterprise-Grade Real Estate Predictive System
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&custom_title=My%20Coding%20Journey&theme=react&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
